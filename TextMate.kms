@@ -298,7 +298,7 @@
   <key value="Meta+E, Meta+W"/>
  </shortcut>
  <shortcut id="TextEditor.UnCommentSelection">
-  <key value="Ctrl+/, Ctrl+Alt+/"/>
+  <key value="Ctrl+/"/>
  </shortcut>
  <shortcut id="TextEditor.CutLine">
   <key value="Shift+Del"/>
@@ -310,7 +310,7 @@
   <key value="F1"/>
  </shortcut>
  <shortcut id="TextEditor.Expand">
-  <key value="Ctrl+>"/>
+  <key value="F1"/>
  </shortcut>
  <shortcut id="TextEditor.UnCollapseAll">
   <key value="Ctrl+Alt+0"/>
